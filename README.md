@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi I'm Viviana! 👩🏽‍💻
 
-<!--
-**Vivi-P/Vivi-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me in 30 Secs ✨
 
-Here are some ideas to get you started:
+- 👩🏽‍🦰 Data Analytics Master Student at Montclair State University
+- 📊 I like working with data 
+- 📝 Solving puzzles 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects & Work Samples 🖼
+
+For my online portfolio, click [HERE](https://pavonv1.wixsite.com/viviana-pavon)
+
+For my Github portfolio, click [HERE] 
+
+#### Core Competencies 🏋🏼‍♀️
+
+My top 3 competencies are Machine Learning, Python and Advanced Excel 
+
+#### Other software skills 🖥
+
+- Tableau
+- R
+- SQL- Big Query
+- Jupyter Notebooks
+- Google Colab
+- Google Analytics
+
+#### Skills and knowledge 📓
+
+Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
+#### Connect with Me 📌
+- [Linkedin](https://www.linkedin.com/in/viviana-pavon/)
